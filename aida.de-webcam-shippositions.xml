@@ -2,57 +2,57 @@
     <ship id="BE" ShipName="AIDAbella" ShipLink="/aidabella">
         <route/>
         <nextport/>
-        <data latitude="55.813067" longitude="10.822333" windSpeed="26.5" windAngle="SW" windRelative="0" waterTemperature="17.4" airTemperature="13.1" timeOffsetUtc="+1.00" timestamp="2026-10-05T00:55:00+02:00" speed="14.8" localTime="00:53" heading="5.7" course="6.8"/>
+        <data latitude="57.2117" longitude="11.632017" windSpeed="35.5" windAngle="SW" windRelative="0" waterTemperature="17.1" airTemperature="14.2" timeOffsetUtc="+1.50" timestamp="2026-10-05T07:25:00+02:00" speed="15.5" localTime="07:23" heading="338.8" course="341.1"/>
         <cams>
-            <cam name="Backbord" thumb="https://media.aida.de/webcam/aidabella_left_76px.jpg" link="https://media.aida.de/webcam/aidabella_left_625px.jpg" img="https://media.aida.de/webcam/aidabella_left_625px.jpg" captured="20261005004416"/>
-            <cam name="Voraus" thumb="https://media.aida.de/webcam/aidabella_ahead_76px.jpg" link="https://media.aida.de/webcam/aidabella_ahead_625px.jpg" img="https://media.aida.de/webcam/aidabella_ahead_625px.jpg" captured="20261005004416"/>
-            <cam name="Steuerbord" thumb="https://media.aida.de/webcam/aidabella_right_76px.jpg" link="https://media.aida.de/webcam/aidabella_right_625px.jpg" img="https://media.aida.de/webcam/aidabella_right_625px.jpg" captured="20261005004416"/>
+            <cam name="Backbord" thumb="https://media.aida.de/webcam/aidabella_left_76px.jpg" link="https://media.aida.de/webcam/aidabella_left_625px.jpg" img="https://media.aida.de/webcam/aidabella_left_625px.jpg" captured="20261005071407"/>
+            <cam name="Voraus" thumb="https://media.aida.de/webcam/aidabella_ahead_76px.jpg" link="https://media.aida.de/webcam/aidabella_ahead_625px.jpg" img="https://media.aida.de/webcam/aidabella_ahead_625px.jpg" captured="20261005071407"/>
+            <cam name="Steuerbord" thumb="https://media.aida.de/webcam/aidabella_right_76px.jpg" link="https://media.aida.de/webcam/aidabella_right_625px.jpg" img="https://media.aida.de/webcam/aidabella_right_625px.jpg" captured="20261005071407"/>
         </cams>
     </ship>
     <ship id="BL" ShipName="AIDAblu" ShipLink="/aidablu">
         <route/>
         <nextport/>
-        <data latitude="44.8278" longitude="13.468417" windSpeed="7" windAngle="NW" windRelative="0" waterTemperature="6.8" airTemperature="21.5" timeOffsetUtc="+1.00" timestamp="2026-10-05T00:55:00+02:00" speed="10.2" localTime="00:54" heading="317.9" course="320.4"/>
+        <data latitude="45.649383" longitude="13.763533" windSpeed="5.5" windAngle="SO" windRelative="0" waterTemperature="7.8" airTemperature="17.1" timeOffsetUtc="+1.50" timestamp="2026-10-05T07:25:00+02:00" speed="0.1" localTime="07:23" heading="136.8" course="244.5"/>
         <cams>
-            <cam name="Backbord" thumb="https://media.aida.de/webcam/aidablu_left_76px.jpg" link="https://media.aida.de/webcam/aidablu_left_625px.jpg" img="https://media.aida.de/webcam/aidablu_left_625px.jpg" captured="20261005004415"/>
-            <cam name="Voraus" thumb="https://media.aida.de/webcam/aidablu_ahead_76px.jpg" link="https://media.aida.de/webcam/aidablu_ahead_625px.jpg" img="https://media.aida.de/webcam/aidablu_ahead_625px.jpg" captured="20261005004415"/>
-            <cam name="Steuerbord" thumb="https://media.aida.de/webcam/aidablu_right_76px.jpg" link="https://media.aida.de/webcam/aidablu_right_625px.jpg" img="https://media.aida.de/webcam/aidablu_right_625px.jpg" captured="20261005004415"/>
+            <cam name="Backbord" thumb="https://media.aida.de/webcam/aidablu_left_76px.jpg" link="https://media.aida.de/webcam/aidablu_left_625px.jpg" img="https://media.aida.de/webcam/aidablu_left_625px.jpg" captured="20261005071406"/>
+            <cam name="Voraus" thumb="https://media.aida.de/webcam/aidablu_ahead_76px.jpg" link="https://media.aida.de/webcam/aidablu_ahead_625px.jpg" img="https://media.aida.de/webcam/aidablu_ahead_625px.jpg" captured="20261005071406"/>
+            <cam name="Steuerbord" thumb="https://media.aida.de/webcam/aidablu_right_76px.jpg" link="https://media.aida.de/webcam/aidablu_right_625px.jpg" img="https://media.aida.de/webcam/aidablu_right_625px.jpg" captured="20261005071406"/>
         </cams>
     </ship>
     <ship id="DI" ShipName="AIDAdiva" ShipLink="/aidadiva">
         <route/>
         <nextport/>
-        <data latitude="40.765667" longitude="-73.999333" windSpeed="3.9" windAngle="N" windRelative="0" waterTemperature="19.4" airTemperature="13.9" timeOffsetUtc="+19.00" timestamp="2026-10-05T00:55:00+02:00" speed="0" localTime="18:53" heading="119.4" course="119.4"/>
+        <data latitude="40.765683" longitude="-73.99935" windSpeed="4.1" windAngle="NW" windRelative="0" waterTemperature="19.2" airTemperature="13.6" timeOffsetUtc="-4.50" timestamp="2026-10-05T07:25:00+02:00" speed="-0.1" localTime="01:24" heading="119.4" course="119.4"/>
         <cams>
-            <cam name="Backbord" thumb="https://media.aida.de/webcam/aidadiva_left_76px.jpg" link="https://media.aida.de/webcam/aidadiva_left_625px.jpg" img="https://media.aida.de/webcam/aidadiva_left_625px.jpg" captured="20261005004416"/>
-            <cam name="Voraus" thumb="https://media.aida.de/webcam/aidadiva_ahead_76px.jpg" link="https://media.aida.de/webcam/aidadiva_ahead_625px.jpg" img="https://media.aida.de/webcam/aidadiva_ahead_625px.jpg" captured="20261005004416"/>
-            <cam name="Steuerbord" thumb="https://media.aida.de/webcam/aidadiva_right_76px.jpg" link="https://media.aida.de/webcam/aidadiva_right_625px.jpg" img="https://media.aida.de/webcam/aidadiva_right_625px.jpg" captured="20261005004416"/>
+            <cam name="Backbord" thumb="https://media.aida.de/webcam/aidadiva_left_76px.jpg" link="https://media.aida.de/webcam/aidadiva_left_625px.jpg" img="https://media.aida.de/webcam/aidadiva_left_625px.jpg" captured="20261005071904"/>
+            <cam name="Voraus" thumb="https://media.aida.de/webcam/aidadiva_ahead_76px.jpg" link="https://media.aida.de/webcam/aidadiva_ahead_625px.jpg" img="https://media.aida.de/webcam/aidadiva_ahead_625px.jpg" captured="20261005071904"/>
+            <cam name="Steuerbord" thumb="https://media.aida.de/webcam/aidadiva_right_76px.jpg" link="https://media.aida.de/webcam/aidadiva_right_625px.jpg" img="https://media.aida.de/webcam/aidadiva_right_625px.jpg" captured="20261005071904"/>
         </cams>
     </ship>
     <ship id="LU" ShipName="AIDAluna" ShipLink="/aidaluna">
         <route/>
         <nextport/>
-        <data latitude="59.326367" longitude="20.197467" windSpeed="27.5" windAngle="W" windRelative="0" waterTemperature="14.3" airTemperature="13.2" timeOffsetUtc="+1.00" timestamp="2026-10-05T00:55:00+02:00" speed="12.7" localTime="00:53" heading="356.4" course="2.6"/>
+        <data latitude="59.442417" longitude="18.40505" windSpeed="17" windAngle="SW" windRelative="0" waterTemperature="13.6" airTemperature="11.8" timeOffsetUtc="+1.50" timestamp="2026-10-05T07:25:00+02:00" speed="11.5" localTime="07:24" heading="255.1" course="255.4"/>
         <cams>
-            <cam name="Backbord" thumb="https://media.aida.de/webcam/aidaluna_left_76px.jpg" link="https://media.aida.de/webcam/aidaluna_left_625px.jpg" img="https://media.aida.de/webcam/aidaluna_left_625px.jpg" captured="20261005004916"/>
-            <cam name="Voraus" thumb="https://media.aida.de/webcam/aidaluna_ahead_76px.jpg" link="https://media.aida.de/webcam/aidaluna_ahead_625px.jpg" img="https://media.aida.de/webcam/aidaluna_ahead_625px.jpg" captured="20261005004916"/>
-            <cam name="Steuerbord" thumb="https://media.aida.de/webcam/aidaluna_right_76px.jpg" link="https://media.aida.de/webcam/aidaluna_right_625px.jpg" img="https://media.aida.de/webcam/aidaluna_right_625px.jpg" captured="20261005004916"/>
+            <cam name="Backbord" thumb="https://media.aida.de/webcam/aidaluna_left_76px.jpg" link="https://media.aida.de/webcam/aidaluna_left_625px.jpg" img="https://media.aida.de/webcam/aidaluna_left_625px.jpg" captured="20261005071907"/>
+            <cam name="Voraus" thumb="https://media.aida.de/webcam/aidaluna_ahead_76px.jpg" link="https://media.aida.de/webcam/aidaluna_ahead_625px.jpg" img="https://media.aida.de/webcam/aidaluna_ahead_625px.jpg" captured="20261005071907"/>
+            <cam name="Steuerbord" thumb="https://media.aida.de/webcam/aidaluna_right_76px.jpg" link="https://media.aida.de/webcam/aidaluna_right_625px.jpg" img="https://media.aida.de/webcam/aidaluna_right_625px.jpg" captured="20261005071907"/>
         </cams>
     </ship>
     <ship id="MA" ShipName="AIDAmar" ShipLink="/aidamar">
         <route/>
         <nextport/>
-        <data latitude="55.149483" longitude="11.057683" windSpeed="15.4" windAngle="SW" windRelative="0" waterTemperature="16.8" airTemperature="14.6" timeOffsetUtc="+1.00" timestamp="2026-10-05T00:55:00+02:00" speed="7" localTime="00:53" heading="7.8" course="9"/>
+        <data latitude="56.064083" longitude="10.60815" windSpeed="28.1" windAngle="SW" windRelative="0" waterTemperature="16.6" airTemperature="14.9" timeOffsetUtc="+1.50" timestamp="2026-10-05T07:25:00+02:00" speed="10.6" localTime="07:23" heading="281.6" course="288.6"/>
         <cams>
-            <cam name="Backbord" thumb="https://media.aida.de/webcam/aidamar_left_76px.jpg" link="https://media.aida.de/webcam/aidamar_left_625px.jpg" img="https://media.aida.de/webcam/aidamar_left_625px.jpg" captured="20261005004415"/>
-            <cam name="Voraus" thumb="https://media.aida.de/webcam/aidamar_ahead_76px.jpg" link="https://media.aida.de/webcam/aidamar_ahead_625px.jpg" img="https://media.aida.de/webcam/aidamar_ahead_625px.jpg" captured="20261005004415"/>
-            <cam name="Steuerbord" thumb="https://media.aida.de/webcam/aidamar_right_76px.jpg" link="https://media.aida.de/webcam/aidamar_right_625px.jpg" img="https://media.aida.de/webcam/aidamar_right_625px.jpg" captured="20261005004415"/>
+            <cam name="Backbord" thumb="https://media.aida.de/webcam/aidamar_left_76px.jpg" link="https://media.aida.de/webcam/aidamar_left_625px.jpg" img="https://media.aida.de/webcam/aidamar_left_625px.jpg" captured="20261005071405"/>
+            <cam name="Voraus" thumb="https://media.aida.de/webcam/aidamar_ahead_76px.jpg" link="https://media.aida.de/webcam/aidamar_ahead_625px.jpg" img="https://media.aida.de/webcam/aidamar_ahead_625px.jpg" captured="20261005071405"/>
+            <cam name="Steuerbord" thumb="https://media.aida.de/webcam/aidamar_right_76px.jpg" link="https://media.aida.de/webcam/aidamar_right_625px.jpg" img="https://media.aida.de/webcam/aidamar_right_625px.jpg" captured="20261005071405"/>
         </cams>
     </ship>
     <ship id="ST" ShipName="AIDAstella" ShipLink="/aidastella">
         <route/>
         <nextport/>
-        <data latitude="37.6792" longitude="12.1546" windSpeed="11" windAngle="SO" windRelative="0" waterTemperature="25.9" airTemperature="23.5" timeOffsetUtc="+1.00" timestamp="2026-10-05T00:55:00+02:00" speed="16.4" localTime="00:53" heading="142.1" course="142.7"/>
+        <data latitude="36.49415" longitude="13.803417" windSpeed="4.5" windAngle="W" windRelative="0" waterTemperature="25.5" airTemperature="23.5" timeOffsetUtc="+1.50" timestamp="2026-10-05T07:25:00+02:00" speed="13.9" localTime="07:23" heading="125.7" course="125.8"/>
         <cams>
             <cam name="Backbord" thumb="https://media.aida.de/webcam/aidastella_left_76px.jpg" link="https://media.aida.de/webcam/aidastella_left_625px.jpg" img="https://media.aida.de/webcam/aidastella_left_625px.jpg" captured="20260926173414"/>
             <cam name="Voraus" thumb="https://media.aida.de/webcam/aidastella_ahead_76px.jpg" link="https://media.aida.de/webcam/aidastella_ahead_625px.jpg" img="https://media.aida.de/webcam/aidastella_ahead_625px.jpg" captured="20260926173414"/>
@@ -62,51 +62,51 @@
     <ship id="SO" ShipName="AIDAsol" ShipLink="/aidasol">
         <route/>
         <nextport/>
-        <data latitude="55.651817" longitude="-1.362117" windSpeed="27.5" windAngle="SW" windRelative="0" waterTemperature="14.4" airTemperature="15.6" timeOffsetUtc="+24.00" timestamp="2026-10-05T00:55:00+02:00" speed="7.3" localTime="23:53" heading="334.5" course="341.7"/>
+        <data latitude="56.027833" longitude="-3.078817" windSpeed="37.6" windAngle="SW" windRelative="0" waterTemperature="14.6" airTemperature="16.5" timeOffsetUtc="+0.50" timestamp="2026-10-05T07:25:00+02:00" speed="12.7" localTime="06:24" heading="230.3" course="228.3"/>
         <cams>
-            <cam name="Backbord" thumb="https://media.aida.de/webcam/aidasol_left_76px.jpg" link="https://media.aida.de/webcam/aidasol_left_625px.jpg" img="https://media.aida.de/webcam/aidasol_left_625px.jpg" captured="20261005004415"/>
-            <cam name="Voraus" thumb="https://media.aida.de/webcam/aidasol_ahead_76px.jpg" link="https://media.aida.de/webcam/aidasol_ahead_625px.jpg" img="https://media.aida.de/webcam/aidasol_ahead_625px.jpg" captured="20261005004415"/>
-            <cam name="Steuerbord" thumb="https://media.aida.de/webcam/aidasol_right_76px.jpg" link="https://media.aida.de/webcam/aidasol_right_625px.jpg" img="https://media.aida.de/webcam/aidasol_right_625px.jpg" captured="20261005004415"/>
+            <cam name="Backbord" thumb="https://media.aida.de/webcam/aidasol_left_76px.jpg" link="https://media.aida.de/webcam/aidasol_left_625px.jpg" img="https://media.aida.de/webcam/aidasol_left_625px.jpg" captured="20261005071406"/>
+            <cam name="Voraus" thumb="https://media.aida.de/webcam/aidasol_ahead_76px.jpg" link="https://media.aida.de/webcam/aidasol_ahead_625px.jpg" img="https://media.aida.de/webcam/aidasol_ahead_625px.jpg" captured="20261005071406"/>
+            <cam name="Steuerbord" thumb="https://media.aida.de/webcam/aidasol_right_76px.jpg" link="https://media.aida.de/webcam/aidasol_right_625px.jpg" img="https://media.aida.de/webcam/aidasol_right_625px.jpg" captured="20261005071406"/>
         </cams>
     </ship>
     <ship id="PR" ShipName="AIDAprima" ShipLink="/aidaprima">
         <route/>
         <nextport/>
-        <data latitude="54.125983" longitude="7.768367" windSpeed="27" windAngle="W" windRelative="0" waterTemperature="17.9" airTemperature="15.4" timeOffsetUtc="+1.00" timestamp="2026-10-05T00:55:01+02:00" speed="9.9" localTime="00:53" heading="295.1" course="300.4"/>
+        <data latitude="55.256783" longitude="6.980733" windSpeed="34.8" windAngle="SW" windRelative="0" waterTemperature="16.7" airTemperature="16.2" timeOffsetUtc="+1.50" timestamp="2026-10-05T07:25:00+02:00" speed="15.1" localTime="07:23" heading="344.2" course="348.9"/>
         <cams>
-            <cam name="Backbord" thumb="https://media.aida.de/webcam/aidaprima_left_76px.jpg" link="https://media.aida.de/webcam/aidaprima_left_625px.jpg" img="https://media.aida.de/webcam/aidaprima_left_625px.jpg" captured="20261005004414"/>
-            <cam name="Voraus" thumb="https://media.aida.de/webcam/aidaprima_ahead_76px.jpg" link="https://media.aida.de/webcam/aidaprima_ahead_625px.jpg" img="https://media.aida.de/webcam/aidaprima_ahead_625px.jpg" captured="20261005004414"/>
-            <cam name="Steuerbord" thumb="https://media.aida.de/webcam/aidaprima_right_76px.jpg" link="https://media.aida.de/webcam/aidaprima_right_625px.jpg" img="https://media.aida.de/webcam/aidaprima_right_625px.jpg" captured="20261005004414"/>
+            <cam name="Backbord" thumb="https://media.aida.de/webcam/aidaprima_left_76px.jpg" link="https://media.aida.de/webcam/aidaprima_left_625px.jpg" img="https://media.aida.de/webcam/aidaprima_left_625px.jpg" captured="20261005071406"/>
+            <cam name="Voraus" thumb="https://media.aida.de/webcam/aidaprima_ahead_76px.jpg" link="https://media.aida.de/webcam/aidaprima_ahead_625px.jpg" img="https://media.aida.de/webcam/aidaprima_ahead_625px.jpg" captured="20261005071406"/>
+            <cam name="Steuerbord" thumb="https://media.aida.de/webcam/aidaprima_right_76px.jpg" link="https://media.aida.de/webcam/aidaprima_right_625px.jpg" img="https://media.aida.de/webcam/aidaprima_right_625px.jpg" captured="20261005071406"/>
         </cams>
     </ship>
     <ship id="PE" ShipName="AIDAperla" ShipLink="/aidaperla">
         <route/>
         <nextport/>
-        <data latitude="50.6496" longitude="0.671783" windSpeed="11.7" windAngle="W" windRelative="0" waterTemperature="19" airTemperature="17.7" timeOffsetUtc="+1.00" timestamp="2026-10-05T00:55:01+02:00" speed="10.8" localTime="00:53" heading="242.7" course="241.2"/>
+        <data latitude="50.771467" longitude="-1.264433" windSpeed="6.7" windAngle="NW" windRelative="0" waterTemperature="19" airTemperature="13.2" timeOffsetUtc="+1.50" timestamp="2026-10-05T07:25:01+02:00" speed="12.8" localTime="07:23" heading="290" course="289.3"/>
         <cams>
-            <cam name="Backbord" thumb="https://media.aida.de/webcam/aidaperla_left_76px.jpg" link="https://media.aida.de/webcam/aidaperla_left_625px.jpg" img="https://media.aida.de/webcam/aidaperla_left_625px.jpg" captured="20261005004916"/>
-            <cam name="Voraus" thumb="https://media.aida.de/webcam/aidaperla_ahead_76px.jpg" link="https://media.aida.de/webcam/aidaperla_ahead_625px.jpg" img="https://media.aida.de/webcam/aidaperla_ahead_625px.jpg" captured="20261005004916"/>
-            <cam name="Steuerbord" thumb="https://media.aida.de/webcam/aidaperla_right_76px.jpg" link="https://media.aida.de/webcam/aidaperla_right_625px.jpg" img="https://media.aida.de/webcam/aidaperla_right_625px.jpg" captured="20261005004916"/>
+            <cam name="Backbord" thumb="https://media.aida.de/webcam/aidaperla_left_76px.jpg" link="https://media.aida.de/webcam/aidaperla_left_625px.jpg" img="https://media.aida.de/webcam/aidaperla_left_625px.jpg" captured="20261005071907"/>
+            <cam name="Voraus" thumb="https://media.aida.de/webcam/aidaperla_ahead_76px.jpg" link="https://media.aida.de/webcam/aidaperla_ahead_625px.jpg" img="https://media.aida.de/webcam/aidaperla_ahead_625px.jpg" captured="20261005071907"/>
+            <cam name="Steuerbord" thumb="https://media.aida.de/webcam/aidaperla_right_76px.jpg" link="https://media.aida.de/webcam/aidaperla_right_625px.jpg" img="https://media.aida.de/webcam/aidaperla_right_625px.jpg" captured="20261005071907"/>
         </cams>
     </ship>
     <ship id="NO" ShipName="AIDAnova" ShipLink="/aidanova">
         <route/>
         <nextport/>
-        <data latitude="59.6011" longitude="4.234117" windSpeed="23.2" windAngle="SW" windRelative="0" waterTemperature="14.8" airTemperature="14.6" timeOffsetUtc="+1.00" timestamp="2026-10-05T00:55:01+02:00" speed="14.1" localTime="00:53" heading="357.2" course="2.4"/>
+        <data latitude="60.406667" longitude="5.105433" windSpeed="24.1" windAngle="SW" windRelative="0" waterTemperature="14" airTemperature="13.5" timeOffsetUtc="+1.50" timestamp="2026-10-05T07:25:01+02:00" speed="11.3" localTime="07:24" heading="127.1" course="121.8"/>
         <cams>
-            <cam name="Backbord" thumb="https://media.aida.de/webcam/aidanova_left_76px.jpg" link="https://media.aida.de/webcam/aidanova_left_625px.jpg" img="https://media.aida.de/webcam/aidanova_left_625px.jpg" captured="20261005004927"/>
-            <cam name="Voraus" thumb="https://media.aida.de/webcam/aidanova_ahead_76px.jpg" link="https://media.aida.de/webcam/aidanova_ahead_625px.jpg" img="https://media.aida.de/webcam/aidanova_ahead_625px.jpg" captured="20261005004927"/>
-            <cam name="Steuerbord" thumb="https://media.aida.de/webcam/aidanova_right_76px.jpg" link="https://media.aida.de/webcam/aidanova_right_625px.jpg" img="https://media.aida.de/webcam/aidanova_right_625px.jpg" captured="20261005004927"/>
+            <cam name="Backbord" thumb="https://media.aida.de/webcam/aidanova_left_76px.jpg" link="https://media.aida.de/webcam/aidanova_left_625px.jpg" img="https://media.aida.de/webcam/aidanova_left_625px.jpg" captured="20261005071907"/>
+            <cam name="Voraus" thumb="https://media.aida.de/webcam/aidanova_ahead_76px.jpg" link="https://media.aida.de/webcam/aidanova_ahead_625px.jpg" img="https://media.aida.de/webcam/aidanova_ahead_625px.jpg" captured="20261005071907"/>
+            <cam name="Steuerbord" thumb="https://media.aida.de/webcam/aidanova_right_76px.jpg" link="https://media.aida.de/webcam/aidanova_right_625px.jpg" img="https://media.aida.de/webcam/aidanova_right_625px.jpg" captured="20261005071907"/>
         </cams>
     </ship>
     <ship id="CO" ShipName="AIDAcosma" ShipLink="/aidacosma">
         <route/>
         <nextport/>
-        <data latitude="43.242817" longitude="8.942833" windSpeed="13.4" windAngle="SO" windRelative="0" waterTemperature="25.3" airTemperature="24.1" timeOffsetUtc="+1.00" timestamp="2026-10-05T00:55:01+02:00" speed="14.3" localTime="00:53" heading="47.5" course="44.5"/>
+        <data latitude="44.109083" longitude="9.837533" windSpeed="4.1" windAngle="NO" windRelative="0" waterTemperature="24.3" airTemperature="17.5" timeOffsetUtc="+1.50" timestamp="2026-10-05T07:25:01+02:00" speed="0.1" localTime="07:24" heading="358.9" course="337.3"/>
         <cams>
-            <cam name="Backbord" thumb="https://media.aida.de/webcam/aidacosma_left_76px.jpg" link="https://media.aida.de/webcam/aidacosma_left_625px.jpg" img="https://media.aida.de/webcam/aidacosma_left_625px.jpg" captured="20261005004416"/>
-            <cam name="Voraus" thumb="https://media.aida.de/webcam/aidacosma_ahead_76px.jpg" link="https://media.aida.de/webcam/aidacosma_ahead_625px.jpg" img="https://media.aida.de/webcam/aidacosma_ahead_625px.jpg" captured="20261005004416"/>
-            <cam name="Steuerbord" thumb="https://media.aida.de/webcam/aidacosma_right_76px.jpg" link="https://media.aida.de/webcam/aidacosma_right_625px.jpg" img="https://media.aida.de/webcam/aidacosma_right_625px.jpg" captured="20261005004416"/>
+            <cam name="Backbord" thumb="https://media.aida.de/webcam/aidacosma_left_76px.jpg" link="https://media.aida.de/webcam/aidacosma_left_625px.jpg" img="https://media.aida.de/webcam/aidacosma_left_625px.jpg" captured="20261005071407"/>
+            <cam name="Voraus" thumb="https://media.aida.de/webcam/aidacosma_ahead_76px.jpg" link="https://media.aida.de/webcam/aidacosma_ahead_625px.jpg" img="https://media.aida.de/webcam/aidacosma_ahead_625px.jpg" captured="20261005071407"/>
+            <cam name="Steuerbord" thumb="https://media.aida.de/webcam/aidacosma_right_76px.jpg" link="https://media.aida.de/webcam/aidacosma_right_625px.jpg" img="https://media.aida.de/webcam/aidacosma_right_625px.jpg" captured="20261005071407"/>
         </cams>
     </ship>
 </aidashipmap>
