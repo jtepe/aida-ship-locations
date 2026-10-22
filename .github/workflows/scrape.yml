@@ -12,7 +12,8 @@ permissions:
 
 jobs:
   scrape:
-    runs-on: ubuntu-latest
+    # Keep the runner on an Ubuntu release supported by Playwright.
+    runs-on: ubuntu-24.04
     if: ${{ !github.event.repository.is_template }}
     steps:
     - uses: actions/checkout@v4
@@ -24,7 +25,7 @@ jobs:
       uses: actions/cache@v4
       with:
         path: ~/.cache/ms-playwright/
-        key: ${{ runner.os }}-playwright-${{ hashFiles('pyproject.toml') }}
+        key: ${{ runner.os }}-ubuntu-24.04-playwright-${{ hashFiles('uv.lock') }}
 
     - name: Install Playwright browsers
       run: uv run playwright install firefox --with-deps
